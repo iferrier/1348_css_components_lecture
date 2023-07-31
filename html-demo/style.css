@@ -1,0 +1,53 @@
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: #575F7D;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #7ECE90;
+  font-size: 20px;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.card-white {
+  background-color: white;
+  box-shadow: 3px 3px 30px rgba(0,0,0,0.1);
+  text-align: center;
+  padding: 40px;
+  margin: 20px 0;
+}
+
+.btn-purple {
+  background-color: rgb(208, 71, 208);
+  color: white;
+  font-weight: bold;
+  padding: 8px 16px;
+  margin-top: 8px;
+  display: inline-block;
+}
+
+a {
+  text-decoration: none;
+}
+
+.list-inline {
+  padding: 0;
+}
+
+.list-inline li {
+  display: inline;
+}
+
+.list-inline li a {
+  color: grey;
+  font-size: 20px;
+}
+
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
