@@ -1,0 +1,35 @@
+.btn-soundcloud {
+  display: inline-block;
+  background-color: #f50;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.btn-spotify {
+  background-color: white;
+  color: black;
+  display: inline-block;
+  padding: 12px 25px;
+  text-decoration: none;
+  border-radius: 25px;
+  font-weight: bold;
+  transition: ease 0.3s;
+}
+
+.btn-spotify:hover {
+  transform: scale(1.05);
+}
+
+.btn-green {
+  text-decoration: none;
+  background-color: rgb(4, 240, 4);
+  display: inline-block;
+  padding: 8px 16px;
+  border-radius: 4px;
+  color: white;
+  margin-top: 10px;
+}
