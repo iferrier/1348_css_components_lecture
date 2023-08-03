@@ -1,0 +1,11 @@
+.navbar-size {
+  height: 50px;
+}
+
+.sidebar-size {
+  height: calc(100vh - 50px);
+}
+
+.logo-size {
+  width: 30px;
+}
